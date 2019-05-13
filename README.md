@@ -18,3 +18,6 @@ CubeStack is a stackable LED cube that enables hobbyists, creators & artists to 
 * Holographic gesture-controlled Rubik's Cube
 * Holographic space brains for cool AI assistants
 * Interactive cool holographic displays for airports
+
+## Link to active planning page
+https://docs.google.com/document/d/1pfGTcnV_5lBqAh3wBbP0ZveLNwkhRxNoazA6ilzE1A4/edit?usp=sharing
