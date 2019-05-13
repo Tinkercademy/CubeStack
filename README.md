@@ -1,9 +1,20 @@
-# INVENT Project Proposals
+# CubeStack
+## Home of the sticky cube displays!
 
-This repository is to store your project proposals. How to use:
+Team members: 
+* Rachel
+* Nuryn
+* J-H
 
-* Figure out Git, perhaps with [Try Git](http://try.github.io/)
-* Clone this repository. [Read this for info on the flow](https://guides.github.com/introduction/flow/).
-* Adapt the `proposal-template.md` file into your proposal as a Markdown document (md file). [Guide to Markdown](https://guides.github.com/features/mastering-markdown/).
-* Push to your repository! 
+## Idea Statement
+CubeStack is a stackable LED cube that enables hobbyists, creators & artists to easily create 3D holographic displays of any shape & size!
 
+## Unique Selling Point
+* Our product is not fixed in size nor shape unlike other RGB LED cubes that can be bought online 
+* Our API allows creators to easily interface with the cubes, easing creations such as music wave displays and space brain holographs for open Alexa.
+* Our product also comes with a easy to use Qt editor to make 3D gifs for the display
+
+## Applications
+* Holographic gesture-controlled Rubik's Cube
+* Holographic space brains for cool AI assistants
+* Interactive cool holographic displays for airports
